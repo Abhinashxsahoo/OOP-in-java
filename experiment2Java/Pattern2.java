@@ -1,3 +1,11 @@
+/* Write a program to print the following patterns: 
+ A B C D E
+ A B C D
+ A B C
+ A B
+ A
+ 
+ For the input 5*/
 package experiment2Java;
 
 import java.util.Scanner;
