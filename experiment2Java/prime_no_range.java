@@ -1,3 +1,6 @@
+/*Write a java program to print "N" prime numbers within the range of X (lower limit) and Y 
+(upper limit). Prompt the values of X, Y, and N from the user. Ensure that the value Y is greater than 
+X and all the numbers are positive whole numbers. For any invalid input, ask for the input again.*/
 package experiment2Java;
 
 import java.util.Scanner;
@@ -18,7 +21,7 @@ public class prime_no_range {
             if (X > 0 && Y > 0 && N > 0 && Y > X) {
                 break;
             } else {
-                System.out.println("Invalid input");
+                System.out.println("Invalid input (Ensure that the value Y is greater than X and all the numbers are positive whole numbers)");
             }
         }
 
