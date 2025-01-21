@@ -1,3 +1,14 @@
+ /*Write a program to print the following pattern:
+ *
+ *
+ *
+ * * * 
+ *
+ * * * * * 
+ *
+ * * * * * * * 
+For the input- 8*/
+
 package experiment2Java;
 
 import java.util.Scanner;
